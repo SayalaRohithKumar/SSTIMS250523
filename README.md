@@ -1,12 +1,16 @@
 SAYALA.ROHITH KUMAR
+
 SSTIMS250523
+
 FEEDBACK SUBMISSION APP
+
 To create a feedback submission app using 
+
  .REACT as frontend
  .EXPRESS.JS + NODE.JS as backend
  .MONGODB as database 
  
-which user can submir feedback and also rating with stars , also user can view their recent ratings and feedbacks. 
+which user can submit feedback and also rating with stars , also user can view their recent ratings and feedbacks. 
 
 # Getting Started with Create React App
 
